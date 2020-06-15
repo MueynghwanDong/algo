@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class 단지번호붙이기_bfs버전 {
+public class 단지번호붙이기_bfs {
 
 	public static PriorityQueue<Integer> pq; // 우선순위큐
 	static int[][] dir = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };

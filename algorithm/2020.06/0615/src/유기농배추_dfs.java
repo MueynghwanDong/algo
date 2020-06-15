@@ -24,17 +24,31 @@ public class ¿Ø±‚≥ÛπË√ﬂ_dfs {
 				int y = sc.nextInt();
 				arr[x][y] = 1;
 			}
+			int count = 0;
 			for(int i = 0; i<r; i++) {
 				for(int j =0; j<c; j++) {
-					
+					if(arr[i][j]==1 && !visited[i][j]) {
+						dfs(i,j);
+						count++;
+					}
 				}
 			}
+			System.out.println(count);
 
 		} // end of testcase
 	}// end of main
 	
-	public static void dfs() {
-		
+	public static void dfs(int x, int y) {
+		visited[x][y] = true;
+		for(int i = 0; i<dirs.length; i++) {
+			int newx = x +dirs[i][0];
+			int newy = y + dirs[i][1];
+			
+			if(newx < 0 || newy <0 || newx >=r || newy >=c) continue;
+			if(!visited[newx][newy] && arr[newx][newy]==1) {
+				dfs(newx, newy);
+			}
+		}
 	}
 
 }
