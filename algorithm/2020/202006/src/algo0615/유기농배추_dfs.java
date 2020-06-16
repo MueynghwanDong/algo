@@ -1,3 +1,4 @@
+package algo0615;
 import java.util.Scanner;
 
 public class 유기농배추_dfs {
