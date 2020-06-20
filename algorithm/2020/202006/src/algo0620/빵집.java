@@ -53,10 +53,8 @@ public class »§Áý {
 			boolean c = fun(nx, ny);
 			if (c)
 				return true;
-
 		}
 		return false;
-
 	}
 
 }
