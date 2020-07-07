@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 테르로미노 {
+public class 테르로미노0701 {
 
 	static int r;
 	static int c;

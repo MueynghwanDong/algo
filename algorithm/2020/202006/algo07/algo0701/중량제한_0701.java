@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class 중량제한 {
+public class 중량제한_0701 {
 
 	static int n;
 	static ArrayList<int[]> arrlist[];
