@@ -1,4 +1,4 @@
-package algo0615;
+package algo06.algo0615;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.PriorityQueue;

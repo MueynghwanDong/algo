@@ -1,4 +1,4 @@
-package algo0617;
+package algo06.algo0617;
 
 import java.util.Scanner;
 

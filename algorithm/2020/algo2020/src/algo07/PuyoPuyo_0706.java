@@ -1,4 +1,4 @@
-package algo0706;
+package algo07;
 
 import java.io.BufferedReader;
 import java.io.IOException;

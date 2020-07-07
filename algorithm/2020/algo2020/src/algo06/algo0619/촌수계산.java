@@ -1,4 +1,4 @@
-package algo0619;
+package algo06.algo0619;
 
 import java.util.LinkedList;
 import java.util.Queue;

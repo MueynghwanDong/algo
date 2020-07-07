@@ -1,4 +1,4 @@
-package algo0624;
+package algo06.algo0624;
 
 import java.io.IOException;
 import java.util.LinkedList;

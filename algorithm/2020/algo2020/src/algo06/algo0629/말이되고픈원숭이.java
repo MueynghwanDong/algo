@@ -1,4 +1,4 @@
-package algo0629;
+package algo06.algo0629;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

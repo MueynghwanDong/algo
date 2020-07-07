@@ -1,4 +1,4 @@
-package algo0626;
+package algo06.algo0626;
 
 import java.io.BufferedReader;
 import java.io.IOException;

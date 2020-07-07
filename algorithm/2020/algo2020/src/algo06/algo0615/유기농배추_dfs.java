@@ -1,4 +1,4 @@
-package algo0615;
+package algo06.algo0615;
 import java.util.Scanner;
 
 public class ¿Ø±‚≥ÛπË√ﬂ_dfs {
