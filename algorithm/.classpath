@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="수업"/>
+	<classpathentry kind="src" path="algo/algo/src"/>
+	<classpathentry kind="src" path="algo/Day1/src"/>
+	<classpathentry kind="src" path="algo/day10/src"/>
+	<classpathentry kind="src" path="algo/day11/src"/>
+	<classpathentry kind="src" path="algo/day12/src"/>
+	<classpathentry kind="src" path="algo/day13/src"/>
+	<classpathentry kind="src" path="algo/day3/src"/>
+	<classpathentry kind="src" path="algo/day4/src"/>
+	<classpathentry kind="src" path="algo/day5/src"/>
+	<classpathentry kind="src" path="algo/day6/src"/>
+	<classpathentry kind="src" path="algo/day7/src"/>
+	<classpathentry kind="src" path="algo/day8/src"/>
+	<classpathentry kind="src" path="algo/day9/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
