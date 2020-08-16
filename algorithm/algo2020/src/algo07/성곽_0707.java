@@ -110,7 +110,6 @@ public class ¼º°û_0707 {
 				}
 				brr[nx][ny] = true;
 				queue.offer(new int[] { nx, ny });
-
 			}
 		}	
 	}
